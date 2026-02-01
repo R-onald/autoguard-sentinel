@@ -23,8 +23,7 @@ A dual-purpose smart car accessory that:
 - Database: SQLite / PostgreSQL
 - Integration: Email notifications, IoT sensors
 
-## 📷 Screenshots / Diagrams
-(Upload images to `docs/` folder)
+
 
 ## 🚀 Future Improvements
 - Mobile app integration
